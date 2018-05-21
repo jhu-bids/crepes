@@ -14,7 +14,7 @@ profile.
 
 Installation
 
-    pip install crepes
+    pip install .
 
 Usage:
 
