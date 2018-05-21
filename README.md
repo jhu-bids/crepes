@@ -1,5 +1,5 @@
 # crepes
-This is.the GitHub repository for the Python package called **crepes** (Clinical Research Engine for Profile Extraction & Summarization) can be used to create the files needed for submission to the clinical profiles registry [here](https://github.com/NCATS-Tangerine/clinical-profile-registry/blob/master/README.md).
+This is the GitHub repository for the Python package called **crepes** (Clinical Research Engine for Profile Extraction & Summarization) can be used to create the files needed for submission to the clinical profiles registry [here](https://github.com/NCATS-Tangerine/clinical-profile-registry/blob/master/README.md).
 
 ## License
 By committing your code to the crepes code repository you agree to release the code under the [MIT License](https://github.com/translational-informatics/crepes/blob/master/LICENSE) attached to the repository.
